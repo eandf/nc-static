@@ -1,0 +1,11 @@
+# custom
+.DS_Store
+.env*
+env/
+venv/
+.claude/
+.ch*
+ch_*
+
+# tmp ignores
+db.json

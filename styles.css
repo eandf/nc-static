@@ -327,6 +327,9 @@
   height: 100%;
   aspect-ratio: 1;
   margin-left: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .Filterbar_rssbutton__DCO4J:hover {
   cursor: pointer;

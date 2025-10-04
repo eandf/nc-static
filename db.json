@@ -1,0 +1,137 @@
+[
+  {
+    "id": 87011,
+    "source": "thn",
+    "url": "https://thehackernews.com/2024/06/vmware-issues-patches-for-cloud.html",
+    "title": "VMware Issues Patches for Cloud Foundation, vCenter Server, and vSphere ESXi",
+    "date": "Jun 18, 2024",
+    "recorded": 1718703398,
+    "details": "VMware released updates for critical flaws in vSphere and vCenter. Flaws could allow privilege escalation and remote code execution."
+  },
+  {
+    "id": 53364,
+    "source": "dr",
+    "url": "https://www.darkreading.com/threat-intelligence/darpa-launches-contest-tools-vulnerabilities",
+    "title": "DARPA Launches Two-Year Contest to Build AI Tools to Fix Vulnerabilities",
+    "date": "August 09, 2023",
+    "recorded": 1691621406,
+    "details": "The Defense Advanced Research Projects Agency (DARPA) is sponsoring a two-year competition called the AI Cyber Challenge, aimed at creating AI-driven systems to address cybersecurity issues and ensure secure software. The challenge invites competitors to design AI systems that can rapidly find and fix vulnerabilities in critical code, with $20 million in prizes available for the best systems."
+  },
+  {
+    "id": 31634,
+    "source": "isg",
+    "url": "https://www.itsecurityguru.org/2023/05/25/knowbe4-helps-organisations-battle-qr-code-phishing-attacks-with-new-tool/",
+    "title": "KnowBe4 Helps Organisations Battle QR Code Phishing Attacks With New Tool",
+    "date": "2023-05-25",
+    "recorded": 1685000626,
+    "details": "KnowBe4 has launched its free QR Code Phishing Security Test to identify susceptible users and manage the threat of malicious QR codes that can execute malware, ransomware, or steal information. With QR code scans increasing by 433% globally in 2022, the tool calculates an organisations Phish-prone Percentage (PPP), providing a first step in determining how vulnerable it is to QR code attacks and encouraging employees healthy scepticism."
+  },
+  {
+    "id": 146472,
+    "source": "caisa",
+    "url": "https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-releases-five-industrial-control-systems-advisories",
+    "title": "CISA Releases Five Industrial Control Systems Advisories",
+    "date": "2025-09-04T12:00:00Z",
+    "recorded": 1757002246,
+    "details": "On September 4, 2025, CISA published crucial ICS advisories. These documents reveal urgent security vulnerabilities and exploits."
+  },
+  {
+    "id": 145821,
+    "source": "cve",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-33037",
+    "title": "CVE-2025-33037",
+    "date": "2025",
+    "recorded": 1756520170,
+    "details": "A path traversal vulnerability has been reported to affect Qsync Central. If a remote attacker gains a user account, they can then exploit the vulnerability to read the contents of unexpected files or system data. We have already fixed the vulnerability in the following version: Qsync Central 4.5."
+  },
+  {
+    "id": 68155,
+    "source": "tlix",
+    "url": "https://www.trellix.com/content/mainsite/en-us/about/newsroom/stories/research/nation-states-will-weaponize-social-and-recruit-bad-guys-with-benefits-in-2022.html",
+    "title": " Nation States Will Weaponize Social and Recruit Bad Guys with Benefits in 2022",
+    "date": "Jan 17, 2022",
+    "recorded": 1705652924,
+    "details": "In 2022, nation states are predicted to continue playing an aggressive role in weaponizing social media and recruiting individuals for their own gain. Threat actors are targeting executives through platforms like LinkedIn, posing as legitimate recruiters to convince them to download malware. The blending of cybercrime and nation-state operations is increasing, with front companies being used to hide involvement and facilitate information theft."
+  },
+  {
+    "id": 68459,
+    "source": "apple",
+    "url": "https://support.apple.com/kb/HT214033",
+    "title": "Safari 17.1.2",
+    "date": "30 Nov 2023",
+    "recorded": 1705894413,
+    "details": "Discover how Apple safeguards customers by withholding security information until necessary measures have been taken, ensuring protection for its users. Dive into the world of Apple security releases to stay informed about the latest updates."
+  },
+  {
+    "id": 142855,
+    "source": "microsoft",
+    "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-49745",
+    "title": "Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability",
+    "date": "2025-Aug",
+    "recorded": 1755019791,
+    "details": ""
+  },
+  {
+    "id": 87412,
+    "source": "dr",
+    "url": "https://www.darkreading.com/vulnerabilities-threats/high-risk-overflow-bug-in-intel-chips-likely-impacts-100s-of-pc-models",
+    "title": "High-Risk Overflow Bug in Intel Chips Likely Impacts 100s of PC Models",
+    "date": "Jun 20, 2024",
+    "recorded": 1718919299,
+    "details": "A newly discovered Intel processor vulnerability affects many computers worldwide. Eclypsium researchers detailed \"UEFIcanhazbufferoverflow\" in a blog post."
+  },
+  {
+    "id": 68382,
+    "source": "apple",
+    "url": "https://support.apple.com/kb/HT213673",
+    "title": "iOS 15.7.4 and iPadOS 15.7.4",
+    "date": "27 Mar 2023",
+    "recorded": 1705894093,
+    "details": "This text provides an overview of security vulnerabilities and their impacts on various Apple devices. It mentions specific issues, such as an app accessing user contacts, importing a malicious calendar invitation, determining which app is using the camera, causing system termination or writing kernel memory, and reading sensitive location information. The text also highlights improvements made to address these issues, such as improved data redaction, input validation, memory handling, and authentication."
+  },
+  {
+    "id": 70225,
+    "source": "thn",
+    "url": "https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html",
+    "title": "Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade",
+    "date": "Feb 08, 2024",
+    "recorded": 1707402176,
+    "details": "The U.S. government has revealed that a Chinese state-sponsored hacking group called Volt Typhoon has infiltrated critical infrastructure networks in the U.S. for the past five years, targeting sectors such as communications, energy, transportation, and water systems. The groups actions dont align with traditional cyber espionage, as they aim to disrupt functions by pre-positioning themselves on IT networks. Supported by other intelligence alliance nations, Volt Typhoon uses stealthy tactics and open-source tools to achieve their goals, maintaining long-term, undetected persistence."
+  },
+  {
+    "id": 67601,
+    "source": "caisa",
+    "url": "https://www.cisa.gov/news-events/alerts/2024/01/16/cisa-releases-two-industrial-control-systems-advisories",
+    "title": "CISA Releases Two Industrial Control Systems Advisories",
+    "date": "2024-01-16T12:00:00Z",
+    "recorded": 1705423739,
+    "details": "CISA has issued two advisories addressing security concerns and vulnerabilities in Industrial Control Systems (ICS). The advisories offer valuable information and recommendations to users and administrators who should promptly review them for technical details and effective measures."
+  },
+  {
+    "id": 95577,
+    "source": "isg",
+    "url": "https://www.itsecurityguru.org/2024/09/03/insider-threat-awareness-month-are-you-prepared/",
+    "title": "INSIDER THREAT AWARENESS MONTH: Are you prepared?",
+    "date": "2024-09-03",
+    "recorded": 1725359714,
+    "details": "Enter the world of insider threats - like a spy thriller. Identifying, containing, eradicating, and preventing."
+  },
+  {
+    "id": 82343,
+    "source": "cve",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4991",
+    "title": "CVE-2024-4991",
+    "date": "2024",
+    "recorded": 1715940475,
+    "details": "Vulnerability in SiAdmin 1.1 that allows SQL injection via the /modul/mod_pass/aksi_pass.php parameter in nama_lengkap."
+  },
+  {
+    "id": 70648,
+    "source": "tlix",
+    "url": "https://www.trellix.com/content/mainsite/en-us/blogs/research/a-door-is-not-a-door-when-it-is-ajar-part-2.html",
+    "title": "A Door Isn\u2019t a Door When It\u2019s Ajar - Part 2",
+    "date": "Aug 17, 2022",
+    "recorded": 1707621583,
+    "details": "This text is the second part of a multi-part series focused on vulnerability discovery in a widely used access control system. It discusses the research journey from target acquisition to exploitation, specifically focusing on software hacking and the vulnerabilities discovered in the HID Mercury access control panel. The blog highlights the criticality of these vulnerabilities and their potential impact on critical infrastructure systems, and also mentions the use of tools like Radamsa and Honggfuzz for fuzzing and discovering bugs in the system."
+  }
+]

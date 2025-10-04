@@ -6,6 +6,4 @@ venv/
 .claude/
 .ch*
 ch_*
-
-# tmp ignores
-db.json
+complete_db.json

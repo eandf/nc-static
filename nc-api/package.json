@@ -1,0 +1,18 @@
+{
+  "name": "nc-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:interup/nc-api.git",
+  "author": "mehmet-mhy <mehmet.mhy@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "source ./.env ; nodemon api/index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.42.3",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}
